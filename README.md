@@ -39,8 +39,3 @@ This is a simple interactive web app for comparing two images with a sliding ove
 
 This project is for educational and demonstration
 
-
-🚀 #JavaScriptChallenge 6: Can you build a slick image reveal slider with just HTML, CSS & JS? 🎨🖱️  
-Try my "Background Remover App" and show off your version!  
-👇 Swipe to compare images interactively!  
-#CodeNewbie #WebDev #100
